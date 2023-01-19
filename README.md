@@ -1,5 +1,6 @@
 # DesktopTipCalculator
 A tip calculator created in Qt
+Demo: https://youtu.be/B5LRipQ7OEM
 
 
 Based on the challenge found on this link https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX
