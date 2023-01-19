@@ -1,5 +1,5 @@
 # DesktopTipCalculator
-A tip calculator created in Qt
+A tip calculator created in Qt<br>
 Demo: https://youtu.be/B5LRipQ7OEM
 
 
